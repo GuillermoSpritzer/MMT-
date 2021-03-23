@@ -6,6 +6,10 @@ Ensure you have the following installed on your development machine:
 
 Net Core 3.0 SDK 
 
+Post URL
+https://localhost:44332/Order/GetMostRecentOrder
+
+
 Security concerns:
 ApiKey probably should not be sent as a url parameter for security issues.
 
