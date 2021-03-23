@@ -1,0 +1,11 @@
+C:\Users\gspritzer\source\repos\MMT\MMT.DataAcces.Repository\bin\Debug\netcoreapp3.1\MMT.DataAcces.Repository.deps.json
+C:\Users\gspritzer\source\repos\MMT\MMT.DataAcces.Repository\bin\Debug\netcoreapp3.1\MMT.DataAcces.Repository.runtimeconfig.json
+C:\Users\gspritzer\source\repos\MMT\MMT.DataAcces.Repository\bin\Debug\netcoreapp3.1\MMT.DataAcces.Repository.runtimeconfig.dev.json
+C:\Users\gspritzer\source\repos\MMT\MMT.DataAcces.Repository\bin\Debug\netcoreapp3.1\MMT.DataAcces.Repository.dll
+C:\Users\gspritzer\source\repos\MMT\MMT.DataAcces.Repository\bin\Debug\netcoreapp3.1\MMT.DataAcces.Repository.pdb
+C:\Users\gspritzer\source\repos\MMT\MMT.DataAcces.Repository\obj\Debug\netcoreapp3.1\MMT.DataAcces.Repository.AssemblyInfoInputs.cache
+C:\Users\gspritzer\source\repos\MMT\MMT.DataAcces.Repository\obj\Debug\netcoreapp3.1\MMT.DataAcces.Repository.AssemblyInfo.cs
+C:\Users\gspritzer\source\repos\MMT\MMT.DataAcces.Repository\obj\Debug\netcoreapp3.1\MMT.DataAcces.Repository.csproj.CoreCompileInputs.cache
+C:\Users\gspritzer\source\repos\MMT\MMT.DataAcces.Repository\obj\Debug\netcoreapp3.1\MMT.DataAcces.Repository.dll
+C:\Users\gspritzer\source\repos\MMT\MMT.DataAcces.Repository\obj\Debug\netcoreapp3.1\MMT.DataAcces.Repository.pdb
+C:\Users\gspritzer\source\repos\MMT\MMT.DataAcces.Repository\obj\Debug\netcoreapp3.1\MMT.DataAcces.Repository.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\gspritzer\source\repos\MMT\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Service.deps.json
+C:\Users\gspritzer\source\repos\MMT\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Service.dll
+C:\Users\gspritzer\source\repos\MMT\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Service.pdb
+C:\Users\gspritzer\source\repos\MMT\MMT.Service\bin\Debug\netcoreapp3.1\MMT.DataAcces.Repository.dll
+C:\Users\gspritzer\source\repos\MMT\MMT.Service\bin\Debug\netcoreapp3.1\MMT.DataAcces.Repository.pdb
+C:\Users\gspritzer\source\repos\MMT\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.csprojAssemblyReference.cache
+C:\Users\gspritzer\source\repos\MMT\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.AssemblyInfoInputs.cache
+C:\Users\gspritzer\source\repos\MMT\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.AssemblyInfo.cs
+C:\Users\gspritzer\source\repos\MMT\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.csproj.CoreCompileInputs.cache
+C:\Users\gspritzer\source\repos\MMT\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.csproj.CopyComplete
+C:\Users\gspritzer\source\repos\MMT\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.dll
+C:\Users\gspritzer\source\repos\MMT\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.pdb
